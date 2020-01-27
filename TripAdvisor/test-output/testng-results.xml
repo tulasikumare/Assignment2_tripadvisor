@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="29585" started-at="2020-01-27T06:32:47Z" finished-at="2020-01-27T06:33:17Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="29585" started-at="2020-01-27T06:32:47Z" finished-at="2020-01-27T06:33:17Z">
+      <class name="com.tripadvisor.testScripts.TripAdvisorTest">
+        <test-method status="PASS" signature="launchApplication()[pri:0, instance:com.tripadvisor.testScripts.TripAdvisorTest@7d68ef40]" name="launchApplication" is-config="true" duration-ms="33366" started-at="2020-01-27T12:02:14Z" finished-at="2020-01-27T12:02:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchApplication -->
+        <test-method status="PASS" signature="script()[pri:0, instance:com.tripadvisor.testScripts.TripAdvisorTest@7d68ef40]" name="script" duration-ms="29575" started-at="2020-01-27T12:02:47Z" finished-at="2020-01-27T12:03:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- script -->
+        <test-method status="PASS" signature="closingApplication()[pri:0, instance:com.tripadvisor.testScripts.TripAdvisorTest@7d68ef40]" name="closingApplication" is-config="true" duration-ms="1096" started-at="2020-01-27T12:03:17Z" finished-at="2020-01-27T12:03:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closingApplication -->
+      </class> <!-- com.tripadvisor.testScripts.TripAdvisorTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
